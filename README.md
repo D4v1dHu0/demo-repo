@@ -1,3 +1,3 @@
 # Demo
 
-This describes the project as a whole.
+This describes the project as a whole!
